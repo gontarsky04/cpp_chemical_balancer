@@ -1,0 +1,17 @@
+# ninja log v6
+129	54297	7713280127846219	CMakeFiles/ChemicalBalancer.dir/Background/ChemicalBalancer.cpp.obj	e8d88766ccae7657
+7	836	7713282581271255	build.ninja	507f63cbd7bd10e8
+54299	73741	7713280669536500	ChemicalBalancer.exe	f876db997b6b2242
+21	36	7709247472102931	clean	b4156cfd904aa1e6
+213	14110	7713280128696236	CMakeFiles/ChemicalBalancer.dir/Background/EquationParser.cpp.obj	a9fe3cd19efeebff
+171	13373	7713280128256126	CMakeFiles/ChemicalBalancer.dir/Background/ChemicalEquation.cpp.obj	57ed18ff011e2415
+152	10890	7713280128066254	CMakeFiles/ChemicalBalancer.dir/Background/Molecule.cpp.obj	f5519b711df8259d
+191	13794	7713280128476633	CMakeFiles/ChemicalBalancer.dir/Background/FormulaParser.cpp.obj	490010106f155c94
+85	13686	7713280127404701	CMakeFiles/ChemicalBalancer.dir/MainProgram/main.cpp.obj	4101824fed014403
+30	2399	7713282895704817	CMakeFiles/ChemicalBalancer.dir/backend/Molecule.cpp.obj	85a17cade829c2b2
+6	2587	7713282895456419	CMakeFiles/ChemicalBalancer.dir/main/main.cpp.obj	406f0f3e9cf22afc
+42	2651	7713282895814788	CMakeFiles/ChemicalBalancer.dir/backend/ChemicalEquation.cpp.obj	c05095a47f4283bc
+54	2813	7713282895934825	CMakeFiles/ChemicalBalancer.dir/backend/FormulaParser.cpp.obj	1ff5911a9143ad12
+65	2936	7713282896046433	CMakeFiles/ChemicalBalancer.dir/backend/EquationParser.cpp.obj	d75c8f7ecf1d0751
+19	17561	7713282895579267	CMakeFiles/ChemicalBalancer.dir/backend/ChemicalBalancer.cpp.obj	ac6e23ae2ba2b6c5
+17565	35729	7713283071036100	ChemicalBalancer.exe	f249c543f91c8fb5
